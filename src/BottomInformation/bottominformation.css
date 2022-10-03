@@ -1,0 +1,62 @@
+
+.bottomsection {
+    background: rgb(18, 18, 26);
+    width: 100%;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2%;
+    margin: 0;
+    padding: 0;
+    height: fit-content
+}
+
+.logobottom {
+    margin: 0;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    font-size: 35px;
+    width: 100%;
+}
+
+
+.canvascontainerbottom{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+Canvas{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+
+}
+
+.sloganbottom {
+    margin: 0;
+    color: aliceblue;
+    font-weight: 700;
+    margin-top: 1em;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+h2{
+    text-align: start;
+    margin-bottom: 0;
+}
+
+p{
+    font-size: 30px;
+    text-align: justify;
+
+}
+
+.resaltado{
+    color:rgb(238, 50, 37)
+}
