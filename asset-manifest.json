@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MoonQuakeChallenge/static/css/main.db6a9603.css",
+    "main.js": "/MoonQuakeChallenge/static/js/main.bff3acf5.js",
+    "static/js/787.cda612ba.chunk.js": "/MoonQuakeChallenge/static/js/787.cda612ba.chunk.js",
+    "static/media/moontTexture4k.jpg": "/MoonQuakeChallenge/static/media/moontTexture4k.c42a71b4a11ee7389e59.jpg",
+    "index.html": "/MoonQuakeChallenge/index.html",
+    "main.db6a9603.css.map": "/MoonQuakeChallenge/static/css/main.db6a9603.css.map",
+    "main.bff3acf5.js.map": "/MoonQuakeChallenge/static/js/main.bff3acf5.js.map",
+    "787.cda612ba.chunk.js.map": "/MoonQuakeChallenge/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db6a9603.css",
+    "static/js/main.bff3acf5.js"
+  ]
+}
